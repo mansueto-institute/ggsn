@@ -9,7 +9,6 @@ Depends:
 Imports:
     sf,
     png,
-    maptools,
     ggmap,
     graphics,
     utils
