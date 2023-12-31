@@ -21,7 +21,6 @@
 #' @keywords package
 #' @import ggplot2
 #' @importFrom sf st_bbox
-#' @importFrom maptools gcDestination
 #' @importFrom graphics plot rasterImage
 #' @importFrom ggmap inset
 #' @importFrom png readPNG
